@@ -9,7 +9,7 @@ from openai.error import APIError, Timeout, RateLimitError, ServiceUnavailableEr
 logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s:%(message)s')
 
 # Set your OpenAI API key securely
-openai.api_key = "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"  # Make sure to set the environment variable 'OPENAI_API_KEY'
+openai.api_key = <api_key>  # Make sure to set the environment variable 'OPENAI_API_KEY'
 
 def call_llm(prompt, model='gpt-4o', temperature=0, max_retries=5):
     """
