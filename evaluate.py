@@ -10,10 +10,10 @@ import logging
 
 def main():
     # Directory where your batch JSON files are stored
-    input_directory = r'C:\Users\Aabid Karim\Desktop\Bias\Entities Evaluation\input'  # Use raw string to handle backslashes
+    input_directory = 'Entities Evaluation\input'  # Use raw string to handle backslashes
 
     # Output directory for CSV files
-    output_directory = r'C:\Users\Aabid Karim\Desktop\Bias\Entities Evaluation\output'  # You can set a different directory if you prefer
+    output_directory = 'Entities Evaluation\output'  # You can set a different directory if you prefer
 
     # Ensure output directory exists
     os.makedirs(output_directory, exist_ok=True)
