@@ -11,7 +11,7 @@ import re
 
 def main():
     # Path to your text file containing questions
-    input_file = r'C:\Users\Aabid Karim\Desktop\Bias\Entities recoganition\GSM8k_test_data.txt'
+    input_file = ""
 
     # Read questions from the file
     with open(input_file, 'r', encoding='utf-8') as f:
