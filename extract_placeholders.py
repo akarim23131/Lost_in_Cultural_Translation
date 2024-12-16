@@ -3,9 +3,9 @@ import json
 import re
 
 # Input JSON file
-INPUT_FILE = r"C:\Users\Aabid Karim\Desktop\Bias\Extracting Unique Placeholders\input\Batch_output_batch_2.json"
+INPUT_FILE = ""
 # Output JSON file
-OUTPUT_FILE = r"C:\Users\Aabid Karim\Desktop\Bias\Extracting Unique Placeholders\output\unique_placeholders.json"
+OUTPUT_FILE = ""
 
 def main():
     # Ensure the output directory exists
