@@ -806,7 +806,7 @@
             "food items: potato salad",
             "Types of events: dinosaur picnic"
         ],
-        "gsm_symbolic": "Question:\n{Person name} the {Person name} was planning to bring {food items} to the {Types of events}. He knows that an adult dinosaur will eat 10 lbs of {food items}, and a child will eat half as much as an adult. If there will be 20 adults and 5 children at the picnic, how many pounds of {food items} does {Person name} need to bring to the {Types of events} if he hopes to have enough to feed everyone?"
+        "gsm_symbolic": "Question:\n{Person name} was planning to bring {food items} to the {Types of events}. He knows that an adult dinosaur will eat 10 lbs of {food items}, and a child will eat half as much as an adult. If there will be 20 adults and 5 children at the picnic, how many pounds of {food items} does {Person name} need to bring to the {Types of events} if he hopes to have enough to feed everyone?"
     },
     {
         "problem_number": 92,
