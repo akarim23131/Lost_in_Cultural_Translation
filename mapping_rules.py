@@ -204,7 +204,7 @@ def process_questions_in_batches(all_questions, batch_size=100):
 ############################################
 
 # Load the questions from an input JSON file. Adjust the path as needed.
-with open(r"C:\Users\Aabid Karim\Desktop\Bias\Mapping rules for all batches\Input\Batch_output_batch_11.json", "r", encoding="utf-8") as f:
+with open("input file path", "r", encoding="utf-8") as f:
     all_questions = json.load(f)
 
 # Now process all the questions in batches of 100 (you can change the batch size if needed)
