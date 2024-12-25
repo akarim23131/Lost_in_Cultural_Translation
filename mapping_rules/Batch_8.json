@@ -1,0 +1,2429 @@
+[
+    {
+        "problem_number": 701,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Hannah"
+            },
+            {
+                "index": 11,
+                "placeholder": "{holiday}",
+                "entity": "4th of July"
+            },
+            {
+                "index": 25,
+                "placeholder": "{Person name}",
+                "entity": "Hannah"
+            },
+            {
+                "index": 41,
+                "placeholder": "{Person name}",
+                "entity": "Hannah"
+            },
+            {
+                "index": 60,
+                "placeholder": "{Person name}",
+                "entity": "Hannah"
+            }
+        ]
+    },
+    {
+        "problem_number": 702,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Aiden"
+            },
+            {
+                "index": 14,
+                "placeholder": "{Types of entertainment places}",
+                "entity": "cinema"
+            },
+            {
+                "index": 64,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 73,
+                "placeholder": "{currency}",
+                "entity": "dollars"
+            }
+        ]
+    },
+    {
+        "problem_number": 703,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Gissela"
+            },
+            {
+                "index": 2,
+                "placeholder": "{Person name}",
+                "entity": "Gordy"
+            },
+            {
+                "index": 5,
+                "placeholder": "{Person name}",
+                "entity": "Gary"
+            },
+            {
+                "index": 7,
+                "placeholder": "{Types of common jobs}",
+                "entity": "truck drivers"
+            },
+            {
+                "index": 9,
+                "placeholder": "{Person name}",
+                "entity": "Gissela"
+            },
+            {
+                "index": 24,
+                "placeholder": "{Person name}",
+                "entity": "Gordy's"
+            },
+            {
+                "index": 33,
+                "placeholder": "{Person name}",
+                "entity": "Gissela's"
+            },
+            {
+                "index": 39,
+                "placeholder": "{Person name}",
+                "entity": "Gary"
+            },
+            {
+                "index": 45,
+                "placeholder": "{Person name}",
+                "entity": "Gissela"
+            },
+            {
+                "index": 47,
+                "placeholder": "{Person name}",
+                "entity": "Gordy"
+            },
+            {
+                "index": 71,
+                "placeholder": "{Person name}",
+                "entity": "Gary"
+            }
+        ]
+    },
+    {
+        "problem_number": 704,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Larry"
+            },
+            {
+                "index": 2,
+                "placeholder": "{food items}",
+                "entity": "dumplings"
+            },
+            {
+                "index": 15,
+                "placeholder": "{Person name}",
+                "entity": "Larry"
+            },
+            {
+                "index": 28,
+                "placeholder": "{cooking item}",
+                "entity": "dumplings"
+            },
+            {
+                "index": 35,
+                "placeholder": "{food items}",
+                "entity": "dumplings"
+            },
+            {
+                "index": 37,
+                "placeholder": "{Person name}",
+                "entity": "Larry"
+            },
+            {
+                "index": 44,
+                "placeholder": "{food items}",
+                "entity": "dumplings"
+            }
+        ]
+    },
+    {
+        "problem_number": 705,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Gerald"
+            },
+            {
+                "index": 2,
+                "placeholder": "{Person name}",
+                "entity": "Julia"
+            },
+            {
+                "index": 4,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 14,
+                "placeholder": "{Person name}",
+                "entity": "Gerald"
+            },
+            {
+                "index": 16,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            }
+        ]
+    },
+    {
+        "problem_number": 706,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Martha"
+            },
+            {
+                "index": 2,
+                "placeholder": "{animal}",
+                "entity": "cat"
+            },
+            {
+                "index": 9,
+                "placeholder": "{animal}",
+                "entity": "turtle"
+            },
+            {
+                "index": 13,
+                "placeholder": "{animal}",
+                "entity": "cat"
+            },
+            {
+                "index": 26,
+                "placeholder": "{animal}",
+                "entity": "turtle"
+            }
+        ]
+    },
+    {
+        "problem_number": 707,
+        "mappings": [
+            {
+                "index": 2,
+                "placeholder": "{Types of common jobs}",
+                "entity": "firefighters"
+            },
+            {
+                "index": 18,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 30,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            }
+        ]
+    },
+    {
+        "problem_number": 708,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{City name}",
+                "entity": "Colorado"
+            },
+            {
+                "index": 10,
+                "placeholder": "{City name}",
+                "entity": "Colorado"
+            }
+        ]
+    },
+    {
+        "problem_number": 709,
+        "mappings": [
+            {
+                "index": 10,
+                "placeholder": "{Person name}",
+                "entity": "Alex"
+            },
+            {
+                "index": 20,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            }
+        ]
+    },
+    {
+        "problem_number": 710,
+        "mappings": [
+            {
+                "index": 8,
+                "placeholder": "{food items}",
+                "entity": "cream"
+            },
+            {
+                "index": 19,
+                "placeholder": "{food items}",
+                "entity": "vanilla ice cream"
+            }
+        ]
+    },
+    {
+        "problem_number": 711,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Marcus"
+            },
+            {
+                "index": 3,
+                "placeholder": "{food items}",
+                "entity": "croissants"
+            },
+            {
+                "index": 5,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 12,
+                "placeholder": "{food items}",
+                "entity": "cinnamon rolls"
+            },
+            {
+                "index": 14,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 21,
+                "placeholder": "{food items}",
+                "entity": "mini quiches"
+            },
+            {
+                "index": 23,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 30,
+                "placeholder": "{food items}",
+                "entity": "blueberry muffins"
+            },
+            {
+                "index": 33,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 43,
+                "placeholder": "{Person name}",
+                "entity": "Marcus"
+            },
+            {
+                "index": 60,
+                "placeholder": "{Person name}",
+                "entity": "Marcus"
+            }
+        ]
+    },
+    {
+        "problem_number": 712,
+        "mappings": [
+            {
+                "index": 1,
+                "placeholder": "{Types of commercial establishments/shops/stores}",
+                "entity": "ice cream parlor"
+            },
+            {
+                "index": 22,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 28,
+                "placeholder": "{Person name}",
+                "entity": "Erin"
+            },
+            {
+                "index": 30,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            }
+        ]
+    },
+    {
+        "problem_number": 713,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Ginger"
+            },
+            {
+                "index": 2,
+                "placeholder": "{Person name}",
+                "entity": "Amy"
+            },
+            {
+                "index": 9,
+                "placeholder": "{cultural event}",
+                "entity": "Halloween"
+            },
+            {
+                "index": 12,
+                "placeholder": "{Person name}",
+                "entity": "Ginger"
+            },
+            {
+                "index": 19,
+                "placeholder": "{Person name}",
+                "entity": "Amy"
+            },
+            {
+                "index": 31,
+                "placeholder": "{Person name}",
+                "entity": "Amy"
+            }
+        ]
+    },
+    {
+        "problem_number": 714,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Mr Boarden"
+            },
+            {
+                "index": 22,
+                "placeholder": "{Person name}",
+                "entity": "Mr Boarden"
+            }
+        ]
+    },
+    {
+        "problem_number": 715,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "James"
+            },
+            {
+                "index": 5,
+                "placeholder": "{food items}",
+                "entity": "blueberries"
+            },
+            {
+                "index": 9,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 17,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 29,
+                "placeholder": "{food items}",
+                "entity": "blueberries"
+            },
+            {
+                "index": 43,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            }
+        ]
+    },
+    {
+        "problem_number": 716,
+        "mappings": [
+            {
+                "index": 9,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            }
+        ]
+    },
+    {
+        "problem_number": 717,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "John"
+            },
+            {
+                "index": 6,
+                "placeholder": "{food items}",
+                "entity": "omelet"
+            },
+            {
+                "index": 11,
+                "placeholder": "{food items}",
+                "entity": "cheese"
+            },
+            {
+                "index": 17,
+                "placeholder": "{food items}",
+                "entity": "ham"
+            },
+            {
+                "index": 25,
+                "placeholder": "{food items}",
+                "entity": "cheese"
+            },
+            {
+                "index": 32,
+                "placeholder": "{food items}",
+                "entity": "ham"
+            },
+            {
+                "index": 44,
+                "placeholder": "{food items}",
+                "entity": "omelet"
+            }
+        ]
+    },
+    {
+        "problem_number": 718,
+        "mappings": [
+            {
+                "index": 3,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 12,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 27,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            }
+        ]
+    },
+    {
+        "problem_number": 719,
+        "mappings": [
+            {
+                "index": 7,
+                "placeholder": "{company names}",
+                "entity": "Google"
+            }
+        ]
+    },
+    {
+        "problem_number": 720,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Goldy"
+            },
+            {
+                "index": 12,
+                "placeholder": "{family member}",
+                "entity": "cousin"
+            },
+            {
+                "index": 18,
+                "placeholder": "{family member}",
+                "entity": "brother"
+            },
+            {
+                "index": 38,
+                "placeholder": "{family member}",
+                "entity": "cousin"
+            },
+            {
+                "index": 40,
+                "placeholder": "{family member}",
+                "entity": "brother"
+            }
+        ]
+    },
+    {
+        "problem_number": 721,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Castle"
+            },
+            {
+                "index": 5,
+                "placeholder": "{Common brand name}",
+                "entity": "Coco Crunch"
+            },
+            {
+                "index": 10,
+                "placeholder": "{Common brand name}",
+                "entity": "Fruit Loops"
+            }
+        ]
+    },
+    {
+        "problem_number": 722,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Helga"
+            },
+            {
+                "index": 4,
+                "placeholder": "{cultural dance style}",
+                "entity": "clog"
+            },
+            {
+                "index": 9,
+                "placeholder": "{City name}",
+                "entity": "Slovenia"
+            }
+        ]
+    },
+    {
+        "problem_number": 723,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Ron"
+            },
+            {
+                "index": 23,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 35,
+                "placeholder": "{Government body}",
+                "entity": "city council"
+            },
+            {
+                "index": 44,
+                "placeholder": "{Person name}",
+                "entity": "Ron"
+            },
+            {
+                "index": 45,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 57,
+                "placeholder": "{Person name}",
+                "entity": "Ron"
+            },
+            {
+                "index": 70,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 77,
+                "placeholder": "{Person name}",
+                "entity": "Ron"
+            }
+        ]
+    },
+    {
+        "problem_number": 724,
+        "mappings": []
+    },
+    {
+        "problem_number": 725,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Bryce"
+            },
+            {
+                "index": 10,
+                "placeholder": "{food items}",
+                "entity": "pizzas"
+            },
+            {
+                "index": 16,
+                "placeholder": "{food items}",
+                "entity": "pizzas"
+            },
+            {
+                "index": 21,
+                "placeholder": "{Person name}",
+                "entity": "Bryce"
+            },
+            {
+                "index": 31,
+                "placeholder": "{food items}",
+                "entity": "pizzas"
+            },
+            {
+                "index": 43,
+                "placeholder": "{food items}",
+                "entity": "pizzas"
+            },
+            {
+                "index": 49,
+                "placeholder": "{food items}",
+                "entity": "pizzas"
+            }
+        ]
+    },
+    {
+        "problem_number": 726,
+        "mappings": [
+            {
+                "index": 4,
+                "placeholder": "{food items}",
+                "entity": "sausages"
+            },
+            {
+                "index": 17,
+                "placeholder": "{food items}",
+                "entity": "sausages"
+            },
+            {
+                "index": 40,
+                "placeholder": "{food items}",
+                "entity": "sausages"
+            }
+        ]
+    },
+    {
+        "problem_number": 727,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Topher"
+            },
+            {
+                "index": 29,
+                "placeholder": "{Person name}",
+                "entity": "Bobby"
+            },
+            {
+                "index": 40,
+                "placeholder": "{Person name}",
+                "entity": "Topher"
+            },
+            {
+                "index": 62,
+                "placeholder": "{Person name}",
+                "entity": "Bobby"
+            }
+        ]
+    },
+    {
+        "problem_number": 728,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Hannah"
+            },
+            {
+                "index": 62,
+                "placeholder": "{Person name}",
+                "entity": "Hannah"
+            }
+        ]
+    },
+    {
+        "problem_number": 729,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Candy"
+            }
+        ]
+    },
+    {
+        "problem_number": 730,
+        "mappings": []
+    },
+    {
+        "problem_number": 731,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Parker"
+            },
+            {
+                "index": 5,
+                "placeholder": "{food items}",
+                "entity": "gum"
+            },
+            {
+                "index": 12,
+                "placeholder": "{food items}",
+                "entity": "gum"
+            },
+            {
+                "index": 17,
+                "placeholder": "{food items}",
+                "entity": "chewing gum"
+            },
+            {
+                "index": 25,
+                "placeholder": "{food items}",
+                "entity": "gum"
+            }
+        ]
+    },
+    {
+        "problem_number": 732,
+        "mappings": []
+    },
+    {
+        "problem_number": 733,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Dora"
+            },
+            {
+                "index": 2,
+                "placeholder": "{family member}",
+                "entity": "father"
+            },
+            {
+                "index": 9,
+                "placeholder": "{Person name}",
+                "entity": "Dora"
+            },
+            {
+                "index": 14,
+                "placeholder": "{Person name}",
+                "entity": "Dora"
+            },
+            {
+                "index": 16,
+                "placeholder": "{family member}",
+                "entity": "mother"
+            },
+            {
+                "index": 22,
+                "placeholder": "{Person name}",
+                "entity": "Dora"
+            },
+            {
+                "index": 24,
+                "placeholder": "{family member}",
+                "entity": "father"
+            },
+            {
+                "index": 27,
+                "placeholder": "{Person name}",
+                "entity": "Dora"
+            },
+            {
+                "index": 39,
+                "placeholder": "{Person name}",
+                "entity": "Dora"
+            },
+            {
+                "index": 42,
+                "placeholder": "{family member}",
+                "entity": "father"
+            },
+            {
+                "index": 46,
+                "placeholder": "{family member}",
+                "entity": "mother"
+            }
+        ]
+    },
+    {
+        "problem_number": 734,
+        "mappings": [
+            {
+                "index": 11,
+                "placeholder": "{Person name}",
+                "entity": "Greg"
+            },
+            {
+                "index": 13,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            }
+        ]
+    },
+    {
+        "problem_number": 735,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Cindy"
+            },
+            {
+                "index": 2,
+                "placeholder": "{school subject}",
+                "entity": "math"
+            },
+            {
+                "index": 4,
+                "placeholder": "{school subject}",
+                "entity": "science"
+            },
+            {
+                "index": 12,
+                "placeholder": "{school subject}",
+                "entity": "French"
+            },
+            {
+                "index": 19,
+                "placeholder": "{school subject}",
+                "entity": "English"
+            },
+            {
+                "index": 26,
+                "placeholder": "{school subject}",
+                "entity": "history"
+            },
+            {
+                "index": 34,
+                "placeholder": "{school subject}",
+                "entity": "English"
+            },
+            {
+                "index": 38,
+                "placeholder": "{Person name}",
+                "entity": "Cindy"
+            }
+        ]
+    },
+    {
+        "problem_number": 736,
+        "mappings": []
+    },
+    {
+        "problem_number": 737,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Boris"
+            },
+            {
+                "index": 5,
+                "placeholder": "{Person name}",
+                "entity": "Beck"
+            },
+            {
+                "index": 11,
+                "placeholder": "{Person name}",
+                "entity": "Boris"
+            },
+            {
+                "index": 14,
+                "placeholder": "{Person name}",
+                "entity": "Boris"
+            },
+            {
+                "index": 16,
+                "placeholder": "{Person name}",
+                "entity": "Beck"
+            },
+            {
+                "index": 25,
+                "placeholder": "{Person name}",
+                "entity": "Beck"
+            },
+            {
+                "index": 28,
+                "placeholder": "{Person name}",
+                "entity": "Boris"
+            }
+        ]
+    },
+    {
+        "problem_number": 738,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Peter"
+            }
+        ]
+    },
+    {
+        "problem_number": 739,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Alice"
+            },
+            {
+                "index": 6,
+                "placeholder": "{Person name}",
+                "entity": "Steven"
+            },
+            {
+                "index": 8,
+                "placeholder": "{Person name}",
+                "entity": "Clara"
+            },
+            {
+                "index": 16,
+                "placeholder": "{Person name}",
+                "entity": "Steven"
+            },
+            {
+                "index": 19,
+                "placeholder": "{Person name}",
+                "entity": "Clara"
+            },
+            {
+                "index": 29,
+                "placeholder": "{Person name}",
+                "entity": "Clara"
+            },
+            {
+                "index": 32,
+                "placeholder": "{Person name}",
+                "entity": "Alice"
+            }
+        ]
+    },
+    {
+        "problem_number": 740,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Cecelia"
+            },
+            {
+                "index": 4,
+                "placeholder": "{Types of commercial establishments/shops/stores}",
+                "entity": "milk store"
+            },
+            {
+                "index": 13,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 28,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            }
+        ]
+    },
+    {
+        "problem_number": 741,
+        "mappings": [
+            {
+                "index": 17,
+                "placeholder": "{Common type of sport}",
+                "entity": "basketball"
+            },
+            {
+                "index": 53,
+                "placeholder": "{Common type of sport}",
+                "entity": "basketball"
+            }
+        ]
+    },
+    {
+        "problem_number": 742,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Jeremy"
+            }
+        ]
+    },
+    {
+        "problem_number": 743,
+        "mappings": []
+    },
+    {
+        "problem_number": 744,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Mara"
+            },
+            {
+                "index": 5,
+                "placeholder": "{food items}",
+                "entity": "cake"
+            },
+            {
+                "index": 54,
+                "placeholder": "{food items}",
+                "entity": "cake"
+            }
+        ]
+    },
+    {
+        "problem_number": 745,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Melissa"
+            },
+            {
+                "index": 4,
+                "placeholder": "{Types of common jobs}",
+                "entity": "pet groomer"
+            }
+        ]
+    },
+    {
+        "problem_number": 746,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Mark"
+            },
+            {
+                "index": 20,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 31,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 37,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 49,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            }
+        ]
+    },
+    {
+        "problem_number": 747,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Jake"
+            },
+            {
+                "index": 11,
+                "placeholder": "{Types of entertainment places}",
+                "entity": "amusement parks"
+            },
+            {
+                "index": 15,
+                "placeholder": "{Types of entertainment places}",
+                "entity": "amusement parks"
+            },
+            {
+                "index": 18,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 26,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 36,
+                "placeholder": "{Types of entertainment places}",
+                "entity": "amusement parks"
+            },
+            {
+                "index": 39,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 46,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 77,
+                "placeholder": "{Types of entertainment places}",
+                "entity": "amusement parks"
+            }
+        ]
+    },
+    {
+        "problem_number": 748,
+        "mappings": [
+            {
+                "index": 1,
+                "placeholder": "{food items}",
+                "entity": "tomatoes"
+            },
+            {
+                "index": 10,
+                "placeholder": "{food items}",
+                "entity": "tomatoes"
+            },
+            {
+                "index": 17,
+                "placeholder": "{food items}",
+                "entity": "tomatoes"
+            },
+            {
+                "index": 28,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 42,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            }
+        ]
+    },
+    {
+        "problem_number": 749,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Carl"
+            },
+            {
+                "index": 8,
+                "placeholder": "{Person name}",
+                "entity": "Sean"
+            },
+            {
+                "index": 10,
+                "placeholder": "{Person name}",
+                "entity": "Sean"
+            },
+            {
+                "index": 17,
+                "placeholder": "{Person name}",
+                "entity": "Cal"
+            },
+            {
+                "index": 20,
+                "placeholder": "{Person name}",
+                "entity": "Sean"
+            },
+            {
+                "index": 29,
+                "placeholder": "{Person name}",
+                "entity": "Carl"
+            },
+            {
+                "index": 31,
+                "placeholder": "{Person name}",
+                "entity": "Cal"
+            }
+        ]
+    },
+    {
+        "problem_number": 750,
+        "mappings": []
+    },
+    {
+        "problem_number": 751,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Candy"
+            },
+            {
+                "index": 39,
+                "placeholder": "{Person name}",
+                "entity": "Candy"
+            }
+        ]
+    },
+    {
+        "problem_number": 752,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Gunther"
+            },
+            {
+                "index": 12,
+                "placeholder": "{Person name}",
+                "entity": "Gunther"
+            },
+            {
+                "index": 16,
+                "placeholder": "{Person name}",
+                "entity": "Arnold"
+            },
+            {
+                "index": 31,
+                "placeholder": "{Person name}",
+                "entity": "Gunther"
+            },
+            {
+                "index": 45,
+                "placeholder": "{Person name}",
+                "entity": "Arnold"
+            },
+            {
+                "index": 58,
+                "placeholder": "{Person name}",
+                "entity": "Gunther"
+            },
+            {
+                "index": 75,
+                "placeholder": "{Person name}",
+                "entity": "Gunther"
+            }
+        ]
+    },
+    {
+        "problem_number": 753,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Jenna"
+            },
+            {
+                "index": 11,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            }
+        ]
+    },
+    {
+        "problem_number": 754,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Jeff"
+            },
+            {
+                "index": 45,
+                "placeholder": "{Person name}",
+                "entity": "Jeff"
+            }
+        ]
+    },
+    {
+        "problem_number": 755,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Lorraine"
+            },
+            {
+                "index": 2,
+                "placeholder": "{Person name}",
+                "entity": "Colleen"
+            },
+            {
+                "index": 40,
+                "placeholder": "{Person name}",
+                "entity": "Lorraine"
+            }
+        ]
+    },
+    {
+        "problem_number": 756,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Joey"
+            },
+            {
+                "index": 2,
+                "placeholder": "{Common type of sport}",
+                "entity": "football"
+            },
+            {
+                "index": 39,
+                "placeholder": "{Person name}",
+                "entity": "Joey"
+            }
+        ]
+    },
+    {
+        "problem_number": 757,
+        "mappings": []
+    },
+    {
+        "problem_number": 758,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Krissa"
+            },
+            {
+                "index": 72,
+                "placeholder": "{Person name}",
+                "entity": "Krissa"
+            }
+        ]
+    },
+    {
+        "problem_number": 759,
+        "mappings": [
+            {
+                "index": 12,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            }
+        ]
+    },
+    {
+        "problem_number": 760,
+        "mappings": [
+            {
+                "index": 11,
+                "placeholder": "{Person name}",
+                "entity": "John"
+            }
+        ]
+    },
+    {
+        "problem_number": 761,
+        "mappings": [
+            {
+                "index": 12,
+                "placeholder": "{Types of events}",
+                "entity": "big race"
+            },
+            {
+                "index": 39,
+                "placeholder": "{Types of events}",
+                "entity": "big race"
+            }
+        ]
+    },
+    {
+        "problem_number": 762,
+        "mappings": [
+            {
+                "index": 3,
+                "placeholder": "{Person name}",
+                "entity": "Jana"
+            },
+            {
+                "index": 28,
+                "placeholder": "{Person name}",
+                "entity": "Jana"
+            }
+        ]
+    },
+    {
+        "problem_number": 763,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Jayden"
+            },
+            {
+                "index": 2,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 15,
+                "placeholder": "{Person name}",
+                "entity": "Ava"
+            },
+            {
+                "index": 21,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 33,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 40,
+                "placeholder": "{Person name}",
+                "entity": "Jayden"
+            }
+        ]
+    },
+    {
+        "problem_number": 764,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Rob"
+            },
+            {
+                "index": 2,
+                "placeholder": "{Person name}",
+                "entity": "Royce"
+            },
+            {
+                "index": 5,
+                "placeholder": "{Person name}",
+                "entity": "Pedro"
+            },
+            {
+                "index": 7,
+                "placeholder": "{Types of common jobs}",
+                "entity": "contractors"
+            }
+        ]
+    },
+    {
+        "problem_number": 765,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Leila"
+            },
+            {
+                "index": 3,
+                "placeholder": "{food items}",
+                "entity": "cucumbers"
+            },
+            {
+                "index": 6,
+                "placeholder": "{Types of commercial establishments/shops/stores}",
+                "entity": "market"
+            },
+            {
+                "index": 8,
+                "placeholder": "{food items}",
+                "entity": "cucumbers"
+            },
+            {
+                "index": 10,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 14,
+                "placeholder": "{Person name}",
+                "entity": "Jack"
+            },
+            {
+                "index": 17,
+                "placeholder": "{food items}",
+                "entity": "tomatoes"
+            },
+            {
+                "index": 20,
+                "placeholder": "{Types of commercial establishments/shops/stores}",
+                "entity": "grocery store"
+            },
+            {
+                "index": 22,
+                "placeholder": "{food items}",
+                "entity": "tomatoes"
+            },
+            {
+                "index": 24,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 28,
+                "placeholder": "{Person name}",
+                "entity": "Chase"
+            },
+            {
+                "index": 33,
+                "placeholder": "{food items}",
+                "entity": "lettuce"
+            },
+            {
+                "index": 36,
+                "placeholder": "{TTypes of commercial establishments/shops/stores}",
+                "entity": "market"
+            },
+            {
+                "index": 38,
+                "placeholder": "{food items}",
+                "entity": "lettuce"
+            },
+            {
+                "index": 40,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 60,
+                "placeholder": "{Types of events}",
+                "entity": "potluck"
+            }
+        ]
+    },
+    {
+        "problem_number": 766,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "George"
+            },
+            {
+                "index": 10,
+                "placeholder": "{Person name}",
+                "entity": "George"
+            },
+            {
+                "index": 19,
+                "placeholder": "{Person name}",
+                "entity": "George"
+            }
+        ]
+    },
+    {
+        "problem_number": 767,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Marissa"
+            },
+            {
+                "index": 8,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 14,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 29,
+                "placeholder": "{Person name}",
+                "entity": "Jimmy"
+            },
+            {
+                "index": 35,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 44,
+                "placeholder": "{Person name}",
+                "entity": "Marissa"
+            },
+            {
+                "index": 47,
+                "placeholder": "{Person name}",
+                "entity": "Jimmy"
+            }
+        ]
+    },
+    {
+        "problem_number": 768,
+        "mappings": [
+            {
+                "index": 7,
+                "placeholder": "{Person name}",
+                "entity": "Sam"
+            },
+            {
+                "index": 12,
+                "placeholder": "{food items}",
+                "entity": "oranges"
+            },
+            {
+                "index": 17,
+                "placeholder": "{food items}",
+                "entity": "oranges"
+            },
+            {
+                "index": 19,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 24,
+                "placeholder": "{currency}",
+                "entity": "money"
+            },
+            {
+                "index": 26,
+                "placeholder": "{Person name}",
+                "entity": "Sam"
+            }
+        ]
+    },
+    {
+        "problem_number": 769,
+        "mappings": [
+            {
+                "index": 4,
+                "placeholder": "{Person name}",
+                "entity": "Ezra"
+            },
+            {
+                "index": 11,
+                "placeholder": "{Person name}",
+                "entity": "Ahmed"
+            },
+            {
+                "index": 13,
+                "placeholder": "{Person name}",
+                "entity": "Ezra"
+            }
+        ]
+    },
+    {
+        "problem_number": 770,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Tanya"
+            },
+            {
+                "index": 8,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 16,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 50,
+                "placeholder": "{Person name}",
+                "entity": "Tanya"
+            }
+        ]
+    },
+    {
+        "problem_number": 771,
+        "mappings": [
+            {
+                "index": 14,
+                "placeholder": "{Types of scents}",
+                "entity": "vanilla"
+            },
+            {
+                "index": 18,
+                "placeholder": "{Types of scents}",
+                "entity": "fruity"
+            },
+            {
+                "index": 70,
+                "placeholder": "{Types of scents}",
+                "entity": "vanilla"
+            },
+            {
+                "index": 78,
+                "placeholder": "{Types of scents}",
+                "entity": "fruity"
+            },
+            {
+                "index": 85,
+                "placeholder": "{Types of scents}",
+                "entity": "vanilla"
+            },
+            {
+                "index": 91,
+                "placeholder": "{Types of scents}",
+                "entity": "fruity"
+            }
+        ]
+    },
+    {
+        "problem_number": 772,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Bennet"
+            },
+            {
+                "index": 3,
+                "placeholder": "{profession}",
+                "entity": "farmer"
+            },
+            {
+                "index": 12,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 30,
+                "placeholder": "{Person name}",
+                "entity": "Bennet"
+            },
+            {
+                "index": 37,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            }
+        ]
+    },
+    {
+        "problem_number": 773,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Tatiana"
+            },
+            {
+                "index": 13,
+                "placeholder": "{Common type of sport}",
+                "entity": "soccer"
+            },
+            {
+                "index": 33,
+                "placeholder": "{Common type of sport}",
+                "entity": "time"
+            },
+            {
+                "index": 35,
+                "placeholder": "{video games, and reading. If she reads for 3 hours and plays video games for 1/3 of the remaining time, what percentage of her weekend does she spend playing {Common type of sport}",
+                "entity": "soccer"
+            }
+        ]
+    },
+    {
+        "problem_number": 774,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Anthony"
+            },
+            {
+                "index": 14,
+                "placeholder": "{Person name}",
+                "entity": "Brandon"
+            },
+            {
+                "index": 27,
+                "placeholder": "{Person name}",
+                "entity": "Charlie"
+            },
+            {
+                "index": 39,
+                "placeholder": "{Person name}",
+                "entity": "Anthony"
+            }
+        ]
+    },
+    {
+        "problem_number": 775,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Jack"
+            },
+            {
+                "index": 5,
+                "placeholder": "{Types of entertainment places}",
+                "entity": "museum"
+            },
+            {
+                "index": 25,
+                "placeholder": "{Types of entertainment places}",
+                "entity": "museum"
+            }
+        ]
+    },
+    {
+        "problem_number": 776,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Henry"
+            },
+            {
+                "index": 14,
+                "placeholder": "{Person name}",
+                "entity": "Henry"
+            }
+        ]
+    },
+    {
+        "problem_number": 777,
+        "mappings": [
+            {
+                "index": 6,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            }
+        ]
+    },
+    {
+        "problem_number": 778,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Mike"
+            },
+            {
+                "index": 36,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 63,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 78,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            }
+        ]
+    },
+    {
+        "problem_number": 779,
+        "mappings": [
+            {
+                "index": 3,
+                "placeholder": "{Types of commercial establishments/shops/stores}",
+                "entity": "orchard"
+            },
+            {
+                "index": 12,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 21,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 30,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 38,
+                "placeholder": "{Person name}",
+                "entity": "Winston"
+            }
+        ]
+    },
+    {
+        "problem_number": 780,
+        "mappings": [
+            {
+                "index": 1,
+                "placeholder": "{Person name}",
+                "entity": "Llesis"
+            }
+        ]
+    },
+    {
+        "problem_number": 781,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Ava"
+            },
+            {
+                "index": 2,
+                "placeholder": "{Person name}",
+                "entity": "Emma"
+            },
+            {
+                "index": 14,
+                "placeholder": "{Person name}",
+                "entity": "Ava"
+            },
+            {
+                "index": 18,
+                "placeholder": "{Types of events}",
+                "entity": "birthday"
+            },
+            {
+                "index": 72,
+                "placeholder": "{Person name}",
+                "entity": "Ava"
+            },
+            {
+                "index": 79,
+                "placeholder": "{Person name}",
+                "entity": "Emma"
+            }
+        ]
+    },
+    {
+        "problem_number": 782,
+        "mappings": [
+            {
+                "index": 4,
+                "placeholder": "{food items}",
+                "entity": "pizzas"
+            },
+            {
+                "index": 10,
+                "placeholder": "{currency}",
+                "entity": "dollars"
+            },
+            {
+                "index": 16,
+                "placeholder": "{food items}",
+                "entity": "pizzas"
+            },
+            {
+                "index": 19,
+                "placeholder": "{currency}",
+                "entity": "dollars"
+            },
+            {
+                "index": 29,
+                "placeholder": "{food items}",
+                "entity": "pizzas"
+            }
+        ]
+    },
+    {
+        "problem_number": 783,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Chase"
+            },
+            {
+                "index": 2,
+                "placeholder": "{Person name}",
+                "entity": "Rider"
+            }
+        ]
+    },
+    {
+        "problem_number": 784,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Bob"
+            },
+            {
+                "index": 93,
+                "placeholder": "{Person name}",
+                "entity": "Bob"
+            }
+        ]
+    },
+    {
+        "problem_number": 785,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Andy"
+            },
+            {
+                "index": 21,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 28,
+                "placeholder": "{currency}",
+                "entity": "money"
+            },
+            {
+                "index": 30,
+                "placeholder": "{Person name}",
+                "entity": "Andy"
+            }
+        ]
+    },
+    {
+        "problem_number": 786,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Carrie"
+            },
+            {
+                "index": 10,
+                "placeholder": "{family member}",
+                "entity": "aunt"
+            }
+        ]
+    },
+    {
+        "problem_number": 787,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Ricardo"
+            },
+            {
+                "index": 39,
+                "placeholder": "{Person name}",
+                "entity": "Ricardo"
+            }
+        ]
+    },
+    {
+        "problem_number": 788,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Samwell"
+            },
+            {
+                "index": 3,
+                "placeholder": "{Types of commercial establishments/shops/stores}",
+                "entity": "appliances store"
+            }
+        ]
+    },
+    {
+        "problem_number": 789,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "John"
+            },
+            {
+                "index": 34,
+                "placeholder": "{Person name}",
+                "entity": "John"
+            },
+            {
+                "index": 39,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 45,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            }
+        ]
+    },
+    {
+        "problem_number": 790,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Carson"
+            },
+            {
+                "index": 26,
+                "placeholder": "{Person name}",
+                "entity": "Carson"
+            },
+            {
+                "index": 62,
+                "placeholder": "{Person name}",
+                "entity": "Carson"
+            }
+        ]
+    },
+    {
+        "problem_number": 791,
+        "mappings": [
+            {
+                "index": 5,
+                "placeholder": "{Types of events}",
+                "entity": "competition"
+            }
+        ]
+    },
+    {
+        "problem_number": 792,
+        "mappings": []
+    },
+    {
+        "problem_number": 793,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Damien"
+            },
+            {
+                "index": 33,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            }
+        ]
+    },
+    {
+        "problem_number": 794,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Jamie"
+            },
+            {
+                "index": 2,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 54,
+                "placeholder": "{currency}",
+                "entity": "dollars"
+            }
+        ]
+    },
+    {
+        "problem_number": 795,
+        "mappings": [
+            {
+                "index": 1,
+                "placeholder": "{profession}",
+                "entity": "zookeeper"
+            }
+        ]
+    },
+    {
+        "problem_number": 796,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Mike"
+            },
+            {
+                "index": 6,
+                "placeholder": "{clothing items}",
+                "entity": "jeans"
+            },
+            {
+                "index": 13,
+                "placeholder": "{Types of commercial establishments/shops/stores}",
+                "entity": "mall"
+            },
+            {
+                "index": 19,
+                "placeholder": "{clothing items}",
+                "entity": "jeans"
+            },
+            {
+                "index": 31,
+                "placeholder": "{clothing items}",
+                "entity": "jeans"
+            },
+            {
+                "index": 33,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 38,
+                "placeholder": "{currency}",
+                "entity": "money"
+            },
+            {
+                "index": 40,
+                "placeholder": "{Person name}",
+                "entity": "Mike"
+            },
+            {
+                "index": 49,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            }
+        ]
+    },
+    {
+        "problem_number": 797,
+        "mappings": [
+            {
+                "index": 31,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 33,
+                "placeholder": "{currency}",
+                "entity": "salary"
+            }
+        ]
+    },
+    {
+        "problem_number": 798,
+        "mappings": [
+            {
+                "index": 0,
+                "placeholder": "{Person name}",
+                "entity": "Carrie"
+            },
+            {
+                "index": 12,
+                "placeholder": "{Cultural songs}",
+                "entity": "Deck the Halls"
+            },
+            {
+                "index": 15,
+                "placeholder": "{Cultural songs}",
+                "entity": "Jingle Bells"
+            },
+            {
+                "index": 19,
+                "placeholder": "{Cultural songs}",
+                "entity": "Deck the Halls"
+            },
+            {
+                "index": 25,
+                "placeholder": "{Cultural songs}",
+                "entity": "Jingle Bells"
+            }
+        ]
+    },
+    {
+        "problem_number": 799,
+        "mappings": [
+            {
+                "index": 1,
+                "placeholder": "{Person name}",
+                "entity": "Billy"
+            },
+            {
+                "index": 13,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 28,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 48,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 55,
+                "placeholder": "{Person name}",
+                "entity": "Sally"
+            },
+            {
+                "index": 69,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 77,
+                "placeholder": "{Person name}",
+                "entity": "Billy"
+            },
+            {
+                "index": 85,
+                "placeholder": "{Person name}",
+                "entity": "Billy"
+            },
+            {
+                "index": 87,
+                "placeholder": "{Person name}",
+                "entity": "Sally"
+            },
+            {
+                "index": 97,
+                "placeholder": "{Person name}",
+                "entity": "Billy"
+            },
+            {
+                "index": 100,
+                "placeholder": "{Person name}",
+                "entity": "Sally"
+            },
+            {
+                "index": 103,
+                "placeholder": "{currency}",
+                "entity": "dollars"
+            }
+        ]
+    },
+    {
+        "problem_number": 800,
+        "mappings": [
+            {
+                "index": 1,
+                "placeholder": "{food items}",
+                "entity": "loaf of bread"
+            },
+            {
+                "index": 4,
+                "placeholder": "{Types of commercial establishments/shops/stores}",
+                "entity": "bakery"
+            },
+            {
+                "index": 6,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 9,
+                "placeholder": "{food items}",
+                "entity": "Bagels"
+            },
+            {
+                "index": 11,
+                "placeholder": "{currency sign}",
+                "entity": ""
+            },
+            {
+                "index": 20,
+                "placeholder": "{food items}",
+                "entity": "loaf of bread"
+            },
+            {
+                "index": 24,
+                "placeholder": "{food items}",
+                "entity": "Bagels"
+            }
+        ]
+    }
+]
