@@ -105,8 +105,8 @@ def replace_placeholders_in_batch(questions_file, mappings_file, dictionary_file
 
 # Example Usage
 replace_placeholders_in_batch(
-    questions_file=r'C:\Users\Aabid Karim\Desktop\Bias\Replacement\Input_questions\Batch_9.json',
-    mappings_file=r'C:\Users\Aabid Karim\Desktop\Bias\Replacement\Input_rules\Batch_9.json',
-    dictionary_file=r'C:\Users\Aabid Karim\Desktop\Bias\Replacement\Dictionary_Pakistan.json',
-    output_file=r'C:\Users\Aabid Karim\Desktop\Bias\Replacement\Output\output_questions.json'
+    questions_file=r'Batch of input questions json file',
+    mappings_file=r'Batch of input questions' mapping rules json file',
+    dictionary_file=r'Dictionary json file',
+    output_file=r'output json file to store output of a batch'
 )
