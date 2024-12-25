@@ -1,0 +1,289 @@
+{
+"Person name":[
+  "Zareen Taj", "Zarsanga", "Gul wali daad", "Adil Kareem", "Gul Panra", "Gul Chahat", "Anwar Babr", "Akram Rahimoon",
+      "Nikki Naseem", "Gud Sattar", "Tedi Sattar", "Binda Ramazan", "Gulzar Alam", "Khyal Muhammad", "Ghani Khan", "Nawaz Shareef",
+      "Naqeeb Ullah", "Rehmat Ullah", "Ashraf Piplan", "Waddi Naseem", "Syed Masood Sadiqque", "Wasi Shah", "Bano Qudsiya",
+      "Ashfaq Ahmad", "Wasif Ali Wasif", "Nazia Hassan", "Dananeer", "Zohaib Hassan", "Faisal Kapadia", "Nabiha Tariq",
+      "Shagufta Ahmad", "Kinaat Noor", "Tariq Birohi", "Huzaifa Rajpoot", "Khalid Sulehri", "Malik Adnan Khan", "Rabia Raza",
+      "Rana Sanaullah", "Palwasha", "Guljana", "Zarak", "Sangeen", "Malala", "Sachal Latif", "Adnan Narejo", "Tanzila Soomro",
+      "Nabila Mangi", "Yusra Shah", "Sana Pir", "Shahzeb Shah", "Rabbani Johkio", "Moosa Sandhu", "Mosham Bhatti", "Fizza Chauhan",
+      "Momna Janjua", "Aftaab Virk", "Safeer Gujjar", "Shabia Cheema", "Anwar Bajwa", "Rashid Minhas", "Allahditta", "khudabaksh",
+      "khudayar", "Ghulam rasool", "Khadim hussain", "Ghulam Fatima", "Gullu Butt", "Shazia Awan", "Taji Khokhar", "Zafar Kahlon",
+      "Faisal Sethi", "Umair Chaudhry", "Ayesha Lakhani", "Emaan Arain", "Sarvaich", "Moomal", "Sassi", "Punhal", "Arqam", "Sohrab", 
+      "Bakhtawar", "Nibras", "Shanzay", "Balach", "Maahekaan", "Dil Murad", "Mazaar", "Gam'shaad", "Salaar", "Bahloor", "Qiyaas"
+],
+  "currency": [
+    "Pakistani Rupee"
+],
+"currency sign": [
+    "pkr"
+],
+"Types of pastries/local food/local deserts": [
+    "gulab jamun", "jalebi", "barfi", "rasgulla", "halwa", "ladoo", 
+    "kheer", "firni", "sheer khurma", "gajar Halwa", "sohan halwa", "mithai",
+    "cham cham", "peda", "rabri", "rus gulla", "zarda", ""
+],
+"City name": [
+      "Karachi", "Lahore", "Peshawar", "Islamabad", "Gujjer Khan", "Faisalabad", 
+      "D.I.Khan", "Quetta", "Lasbela", "D.G.Khan", "Mian Wali", "Laiyya", 
+      "Kohat", "Umer Kot", "Rahim-e-yaar Khan", "Sukkur"
+],
+"Types of commercial establishments/shops/stores": [
+    "Empress Market", "Karkhano Market", "Raja Bazaar", "Anarkali Bazaar", "Ichra Bazaar", "Karachi Lee Market", 
+    "Itwar Bazaar", "Light House", "Saddar Bazaar Karachi", "Lucky one mall", "Liberty Market", "Dolmen Mall - Clifton", 
+    "Millennium Mall", "Giga Mall Islamabad", "Safa Gold Mall", "Centaurus Mall", "Bahria Mall", "Khyber Market",
+    "Saddar Bazaar Rawalpindi", "Saddar Bazaar Peshawar", "Bilal Market, Hayatabad, Peshawar", "Shafi Market", "Bara market, raja bazar",
+    "China Market Rawalpindi", "Bolton Market", "Zainab market Karachi", "Karachi Farmers Market", "Machi miyani market"
+],
+  
+"Types of houses": [
+  "mud house", "brick house", "stone house", "Ibrahim house", 
+  "wooden house", "Anwer Kamaal Villa", "Kabir Khan House", "Bharti House", 
+  "Saleem Saifullah Banglaw", "traditional haveli", "hut", "farmhouse", 
+  "stilt house", "row house", "sloped roof house", "Qilla"
+],
+"Types of dance":[
+  "Ho-Jamalo dance", "Kathak Dance", "Bhangra Dance", "Dhammal dance", "Jhumir dance", "Dandio dance", 
+    "Chaap Balochi Dance", "Leva Balochi dance", "Luddi dance", "Kikli dance", "Gatka dance", "Raag Folk Dance", 
+    "Sword gigliti dance", "Hafiz nagma dance", "Attan Dance", "Bangra Dance"
+],
+"Types of goods merchant purchase": [
+    "grains", "vegetables", "fruits", "spices", "cloth", "electronics", 
+    "furniture", "hardware", "utensils", "jewelry", "books", "toys", 
+    "shoes", "plastic goods", "stationery", "household items"
+],
+"Types of common jobs": [
+    "welder", "potter", "farmer", "tailor", "shopkeeper", "flyingcoach driver", 
+    "carpenter", "rikshaw driver", "dunky puncher", "office boy", "paan wala", "security guard", 
+    "construction worker", "weaver", "handicraftsman", "cattle farmer"
+],
+"food items": [
+    "biryani", "roti", "dal", "samosa", "Shinwari mutton kadhi", "chicken thikka", "PESHAWARI KARAHI", "Dal makhani", "Shahi paneer", "Harisa", "Buttering Doudo",
+      "paratha", "kheer", "murgh pulao", "pakora", "Sindhi Kadhi", "Lahori Channay", "DUM PUKHT",  "NAMKEEN TIKKA", "Halwa poori", "Kashmiri Muji Gaad",
+      "chapati", "Sindhi biryani", "Sai bhaji", "Bun kebab", "PESHAWARI CHAPLI KEBAB", "LAMB CHOPS" , "Kulcha", "Rogan Josh", "Yakhni", "Khambir roti"
+],
+"clothing items":[
+      "kurta", "sari", "shalwar kameez", "lungi", "lehenga", "dhoti", "Karakul caps", "Pathani suit", "Dhivehi Libaas", "Burqa", "Aabaya",
+      "shawl", "waiscoat", "Sindhi shalwar", "dupatta", "shameez", "banyaan", "khaddar",  "Sindhi topi", "Pashtun dress", "Bandhani kurta",
+      "pagri", "Sherwani" , "Ajrak", "ghagra", "Punjabi ghagra", "Punjabi tamba and kurta", "Multani kurta", "Phulkari kurta"
+],
+"Common type of sport": [
+      "kho-kho", "Teerandaji", "kabaddi", "butthan", "badminton", "tennis", 
+      "karate", "volleyball", "shatranj", "mountaineering", "kataar", 
+      "netball", "archery", "Bhutanese archer", "degor", "khuru", "chauk", "Jee"
+],
+"Common brand name": [
+      "Khaadi", "Shan Foods", "Xanders", "Scent & Stories", "outfitters", "Ideas", 
+      "j.", "Golden Pearl", "Kababjees", "Bonenza Satrangi", "Moosa Jee", 
+      "Pak Wheels", "Shandaar Mobile", "Arsheen", "Khazanay"
+],
+"cooking item": [
+    "oil", "ghee", "mustard seeds", "turmeric", "daar cheni", "methi dhana", 
+    "kabli pulao masala", "podeena", "daniya", "green chili", "adrak", 
+    "kali mirch", "jalebi", "ras malai", "kishmish"
+],
+"Types of events": [
+  "14th august", "Eid milad-u-nabi", "Eid-ul-Adha", "Eid-ul-fittar", "ashura", 
+    "nowruz","diwali", "holi", "onam", "Jashan-e-nowruz", "Pakistan Day", "Kalash festivals", 
+    "Lok Virsa Folk Festival", "Shandur polo festival", "Silk Route Festival"
+],
+"Types of beverages":[
+    "lassi", "dhood soda", "tukhmalanga juice", "lemonade", 
+    "soda", "bang", "sulemani tea", "green tea", "black tea", 
+    "falooda", "mitthi lassi", "gur juice", "kashmiri tea", "lemu pani"
+],
+"Common clothing items":[
+    "kurta", "sari", "shalwar kameez", "lungi", "lehenga", "dhoti", "Karakul caps", "Pathani suit", "Dhivehi Libaas", "Burqa", "Aabaya",
+      "shawl", "waiscoat", "Sindhi shalwar", "dupatta", "shameez", "banyaan", "khaddar",  "Sindhi topi", "Pashtun dress", "Bandhani kurta",
+      "pagri", "Sherwani" , "Ajrak", "ghagra", "Punjabi ghagra", "Punjabi tamba and kurta", "Multani kurta", "Phulkari kurta"
+],
+"Types of books": [
+      "Nimaz-e-mutarrajm", "Quran", "fazail-e-amaal", "Tafseer book", 
+      "Kamasutra", "Urdu Novel", "rigveda", "ramayana", "Hadees Book", "Geetha", 
+      "Masnavi", "diwaan", "Qasida", "Dīpavaṃsa", "Ghazal book"
+],
+"Types of vehicles": [
+    "car", "motorbike", "bus", "truck", "bicycle", "rickshaw", 
+    "tractor", "scooter", "auto-rickshaw", "flyingcoach", "van", "ambulance", 
+    "scotti", "train", "Zranj"
+],
+"Types of places": [
+    "sunday bazar", "animal mandi", "lunda bazar", "lee market", "temple", "mosque", 
+    "Quetta cafe", "village", "Shaheen Shinwari", "shinwari", 
+    "restaurant", "Mazdagari Hotel"
+],
+"animal":[
+    "Kukkar", "elephant", "cow", "goat", "buffalo", "chicken", 
+      "mena", "yak", "peacock", "markhor", "lion", "kabuter", 
+      "Bulbul", "dog", "cat", "parrot"
+],
+"Recreation activity": [
+  "kho-kho", "Teerandaji", "kabaddi", "butthan", "badminton", "tennis", 
+  "karate", "volleyball", "shatranj", "mountaineering", "kataar", 
+  "netball", "archery", "Bhutanese archer", "degor", "khuru"
+],
+"Types of family events": [
+    "Mehandi", "Dholki", "Baraat", "waleema", "Hifz-e-quran jalsa", 
+      "nowruz", "Khatna", "Chaleeswa", "Barsi", "Quran Khatam"
+
+],
+"types of shows": [
+    "tariq aziz show", "zubaida aapa kay totkay show", 
+    "mazaak raat show", "hasbehall", "jeeto pakistan"
+],
+"Village names": [
+    "Bhainsa", "Chakwal", "Lalpura", "Aba Khel", "Bela", "Thar", 
+    "Tatta", "Haripur", "Gotki", "Thira", "Masti Khel", "Dawood Khel", 
+    "Jang", "Tokar Niaz Beg", "Gar Mor", "Piplan"
+],
+"School subject":[
+    "Nimaz-e-mutarrajm", "Quran", "fazail-e-amaal", "Tafseer book", "Hadees Book", "Sindhi book", 
+     "Urdu Novel", "", "rigveda", "ramayana", "Tripitaka", 
+      "Masnavi", "diwaan", "Qasida", "Dīpavaṃsa", "Ghazal book"
+],
+"cultural event": [
+  "14th august", "Eid milad-u-nabi", "Eid-ul-Adha", "Eid-ul-fittar", "ashura", 
+  "nowruz","diwali", "holi", "onam", "Jashan-e-nowruz", "Pakistan Day", "Kalash festivals", 
+  "Lok Virsa Folk Festival", "Shandur polo festival", "Silk Route Festival"
+],
+"Types of games":[
+      "kho-kho", "Teerandaji", "kabaddi", "butthan", "badminton", "tennis", 
+      "karate", "volleyball", "shatranj", "mountaineering", "kataar", 
+      "netball", "archery", "Bhutanese archer", "degor", "khuru"
+],
+"Types of flowers": [
+    "rose", "lotus", "jasmine", "marigold", "hibiscus", 
+    "tulip", "sunflower", "daisy", "lily", "orchid", 
+    "bougainvillea", "chrysanthemum", "daffodil", "geranium", "lavender", "magnolia"
+],
+"family member": [
+    "taya", "bare abbu", "taya abbu", "khalu", "devar", 
+    "phuppa", "khala", "bua", "mosi", "mamu", 
+    "jija", "mumani", "bhanja", "susar", "saas", "nand"
+],
+"recreation places": [
+    "lari adda", "pehlwan hotel", "itwar bazar", "Sindh river", "winter land", 
+    "buns road", "Amer Fort", "Qutab Minar", "Hawa Mahal", "Shahi Qilla", "Mohenjo Daru", "Minar-e-Pakistan"   
+],
+"Types of musical compositions": [
+    "Qawwali", "Pakistani pop", "Pashto", "Balochi", "Thumri", 
+    "Dadra", "ghazal", "Tappa", "Raga", "Nazrul geeti"
+],
+"profession": [
+    "mechanic", "carpenter", "teacher", "bullcat driver", "plumber", 
+    "salesman", "clerk", "Hafiz Shab", "Molvi shab", "pandit", 
+    "mazdoor", "driver", "welder", "shopkeeper", "farmer", "electrician"
+],
+"Types of classes": [
+    "quran class", "qirrat class", "tafseer class", "tilawat class", "hadeesh class", 
+    "language class", "ms office class", "katak class", "cooking class", 
+    "welding class", "karate class", "driving class", "gur sawari class", 
+    "fitness class", "ms excel class", "photography class"
+],
+"holiday": [
+    "Eid milad-un-nabi", "Eid-ul-Azha", "Eid-ul-Fitr", "Diwali", "Labour Day", 
+    "14th August", "Kashmir Day", "Ashura", "Pakistani general election",
+    "Zil Hajj", "Iqbal Day", "Quaid-e-Azam's Birthday", "Durga Puja", "Navroz"
+],
+"company names": [
+    "Khaadi", "Pakistan Steel Mill", "PTCL", "Wapda", "Sui Gas", "Fuji Foundation",
+    "Shan Foods", "Lucky One Group", "Habib Group of companies", "Lucky Cement", "Arbisoft", 
+    "Murree Brewery", "Abudawood Pakistan", "Nestlé Pakistan", "Ahmed Enterprises", "Anfords Pakistan (Pvt.) Ltd", "Agro Processors & Atmospheric Gases Ltd"
+],
+"Types of teacher": [
+    "pashto teacher", "sindhi teacher", "balochi teacher", "hindi teacher", "hindko teacher", 
+    "punjabi teacher", "quran teacher", "tafser education teacher", "hadith teacher", 
+    "Bhagavad Gita teacher", "kathak teacher", "Attan teacher", 
+    "bengali instructor", "sanskrit  tutor", "bihari teacher", "qirrat teacher"
+],
+"restaurant name": [
+    "Bar.B.Q Tonight", "Tunday Kababi", "Student Biryani", "Kababjees", "Kochchi Patha", 
+    "Xanders", "Haveli Restaurant", "Cafe Praha", "Shaheen Shinwari", "Raashid Food", 
+    "Butt Kadhai", "Kababjees", "California Pizza", "Aussi Burger", "Cafe Lahore", ""
+],
+"cultural landmark": [
+    "Taj Mahal", "Badshahi Mosque", "Harrapa Haritage", "Shalimar Bagh", 
+    "Shahi Qilla", "Minaar-e-Pakistan", "Swat Valley", "Mohenjodaru", "Badshahi Mosque lahore", 
+    "Faisal Mosque Islamabad", "Nankana Sahib", "Pakistan Monument", "Derawar Fort", 
+    "Frere Hall Karachi", "Wazir Khan Mosque Lahore"
+],
+"Mythical character": [
+    "Rama", "Krishna", "Hanuman", "Arjuna", "Sita", 
+    "Draupadi", "Karna", "Garuda", "Shiva", "Durga", 
+    "Buddha as Bodhisattva", "Makara", "Yaksha", "Ravana", "Indra", "Manasa"
+],
+"online shopping platforms": [
+  "Daraz", "iShopping", "Shophive", "what mobile", "Priceoye", 
+  "Khaadi Online", "Homeshopping.Pk", "OLX", "Shopon"
+],
+"Types of entertainment places":[
+     "Taj Mahal", "Badshahi Mosque", "Harrapa Haritage", "Shalimar Bagh", 
+    "Shahi Qilla", "Minaar-e-Pakistan", "Swat Valley", "Mohenjodaru", "Badshahi Mosque lahore", 
+    "Faisal Mosque Islamabad", "Nankana Sahib", "Pakistan Monument", "Derawar Fort", 
+    "Frere Hall Karachi", "Wazir Khan Mosque Lahore"
+],
+"cultural dance style": [
+  "Ho-Jamalo dance", "Kathak Dance", "Bhangra Dance", "Dhammal dance", "Jhumir dance", "Dandio dance", 
+    "Chaap Balochi Dance", "Leva Balochi dance", "Luddi dance", "Kikli dance", "Gatka dance", "Raag Folk Dance", 
+    "Sword gigliti dance", "Hafiz nagma dance", "Attan Dance", "Bangra Dance"
+],
+"Government body": [
+    "Supreme Court of Pakistan", "National Assembly of Pakistan", "SIndh Highcourt",
+    "Pakistan Parliament", "House of Representatives (Pakistan)", "KPK Highcourt", "Punjab Highcourt",
+    "Federal Board of Revenue (Pakistan)", "Pakistan bureau of statistics"
+],
+"Types of scents": [
+    "J. Janaan", "jasmine", "rosewater", "agarwood (oud)", "vetiver", 
+    "mogra", "cinnamon", "cardamom", "clove", "frangipani", 
+    "lemongrass", "patchouli", "lotus", "incense", "marigold", "neem"
+],
+"Cultural songs": [
+  "Raag Yaman", "Rabindra Sangeet", "Sindhi Kalam", "Baul Folk Songs", 
+  "Bulleh Shah Qawwali", "Thumri", "Pashto", "Shabad Kirtan", "Ghazal", 
+  "Bhatiali Songs", "Lalon Geeti", "Sufi Music", "Punjabi Folk Ballads"
+ 
+],
+"school name": [
+    "Beaconhouse School System", "Islamabad Public School", "Scholars Academy", "Roots International Schools", 
+    "Machen Khel Higher Secondary School", "KGS School", "Lyceum International School", 
+    "Modern Pakistani School", "The Lyceum", "Lahore Grammer School", "Faiz School", "Knowladge Public School"
+],
+"common places": [
+    "Chandni chowk", "mumbai sumls", "empress market", "saddar peshawar", "saddar karachi", 
+    "Babri Masjid", "Shahi Qilla", "restaurant", "zoo", "stadium", 
+    "Slalmi Bazaar", "Mountain Chowk Lahore", "post office Karachi University", "Lahore Junction", "Do dariya", "Teen Talwar"
+],
+"Types of tea": [
+    "masala chai", "green tea", "black tea", "darjeeling tea", "assam tea", 
+    "kahwa", "noon chai", "herbal tea", "lemongrass tea", "oolong tea", 
+    "tulsi tea", "butter tea", "cardamom tea", "ginger tea", "jasmine tea", "mint tea"
+],
+"appliances": [
+  "pressure cooker", "ceiling fan", "refrigerator", "charcoal iron", "gas stove", 
+  "water purifier", "air cooler", "hand blender", "washing machine", "grinding stone", 
+  "solar water heater", "electric kettle", "mixer grinder", "toaster", "rice cooker", "sewing machine"
+],
+"newspaper names": [
+    "Dawn", "Daily Jang", "Daily Star", "Urdu News", "Daily Pakistan", 
+    "The Express Tribune", "Pakistan Observer", "Nawaiwaqt", "Daily Qaumi Bandhan", 
+    "Daily Sindhu", "Daily Awam", "Daily Hilal Pakistan", "Khyber Mail", 
+    "Christian Voice", "Daily Awami Awaz", "Daily Mashriq"
+],
+  "religious place": [
+    "Golden Temple", "Golra Sharif Darbar", "Badshahi Mosque", "Shwedagon Pagoda", 
+    "Shiv Temple ,Chitti Hatti", "Mankiala Stupa", "Faisal Mosque", "Raiwind Tableeghi Markaz", 
+    "nankana sahib", "Data Darbar Shrine", "Shah Jahan Masjid Thatta", "Jama Masjid", 
+    "Sacred Tooth Relic Temple", "Shri Shiv Mandir, Umerkot", "Jandial Remains", "Eid Ghah"
+],
+  "Language":[
+    "Hindi", "Urdu", "Punjabi", 
+    "Balochi", "Saraiki", "Gujarati", "Laasi", "Pashto", 
+    "Balti", "Hindko", "Brahui", "Pahari-Pothwari", "Sindhi", 
+    "Kashmiri", "Shina", "Brushaski", "Dumaki", "Wakhi", "Khowar", "Kohistani"
+],
+"school subject":[
+    "Nimaz-e-mutarrajm", "Quran", "fazail-e-amaal", "Tafseer book", 
+      "Kamasutra", "Urdu Novel", "rigveda", "ramayana", "Hadees Book", "Geetha", 
+      "Masnavi", "diwaan", "Qasida", "Dīpavaṃsa", "Ghazal book"
+]
+}
