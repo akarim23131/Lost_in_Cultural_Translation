@@ -1,6 +1,7 @@
 import json
 import random
 import re
+import os
 
 # Define regex_tokenize
 def regex_tokenize(text):
@@ -31,7 +32,6 @@ def replace_placeholders_in_batch(questions_file, mappings_file, dictionary_file
         questions = json.load(qf)
         mappings = json.load(mf)
         placeholder_dict = json.load(df)
-
 
     results = []
 
@@ -98,15 +98,45 @@ def replace_placeholders_in_batch(questions_file, mappings_file, dictionary_file
         final_question = " ".join(symbolic_question)
         results.append({"problem_number": problem_number, "final_question": final_question})
 
-    with open(output_file, 'w') as of:
+    with open(output_file, 'w', encoding='utf-8') as of:
         json.dump(results, of, indent=4)
 
     print(f"Processed questions saved to {output_file}.")
 
+# Automate batch processing
+def process_all_batches(input_questions_dir, input_rules_dir, dictionary_file, output_dir):
+    """
+    Automates the batch processing for all input question and rule files.
+
+    Args:
+        input_questions_dir (str): Directory containing input question batches.
+        input_rules_dir (str): Directory containing input rule batches.
+        dictionary_file (str): Path to the dictionary file.
+        output_dir (str): Directory to save the output batches.
+
+    Returns:
+        None
+    """
+    question_files = sorted(os.listdir(input_questions_dir))
+    rule_files = sorted(os.listdir(input_rules_dir))
+
+    for question_file, rule_file in zip(question_files, rule_files):
+        question_path = os.path.join(input_questions_dir, question_file)
+        rule_path = os.path.join(input_rules_dir, rule_file)
+        output_path = os.path.join(output_dir, question_file)  # Save output with same name as input
+
+        print(f"Processing batch: {question_file}")
+        replace_placeholders_in_batch(
+            questions_file=question_path,
+            mappings_file=rule_path,
+            dictionary_file=dictionary_file,
+            output_file=output_path
+        )
+
 # Example Usage
-replace_placeholders_in_batch(
-    questions_file=r'Batch of input questions json file',
-    mappings_file=r'Batch of input questions' mapping rules json file',
-    dictionary_file=r'Dictionary json file',
-    output_file=r'output json file to store output of a batch'
+process_all_batches(
+    input_questions_dir = '',
+    input_rules_dir = '',
+    dictionary_file = '',
+    output_dir = ''
 )
