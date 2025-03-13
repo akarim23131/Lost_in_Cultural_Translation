@@ -1,12 +1,13 @@
-#prompt configuration
 def get_few_shot_prompt(question):
     """
     Returns a prompt with few-shot examples for the LLM.
     """
     prompt = f"""
 Your task is to process the given question and:
-1. Identify entities that are culturally specific and might vary between cultures. These entities may include names of people, places, currencies and currency symbols, cooking items, and other culturally relevant elements.
-2. Replace each identified cultural entity in the question with a placeholder enclosed in curly braces, indicating the type of entity (e.g., {{Person name}}, {{place}}, {{currency}}, {{cooking_item}}).
+1. Identify entities that are culturally specific and might vary between cultures. These entities may include names of people, places, 
+currencies and currency symbols, cooking items, and other culturally relevant elements.
+2. Replace each identified cultural entity in the question with a placeholder enclosed in curly braces, indicating the type of entity 
+(e.g., {{Person name}}, {{place}}, {{currency}}, {{cooking_item}}).
 Please only identify and replace cultural entities, and retain all numerical values and mathematical logic exactly as they are.
 
 Output Format:
